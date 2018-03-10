@@ -1,5 +1,5 @@
 # AndroidForLumia
-Create and android ROM that works on Lumia (Microsoft) phones
+Create an android ROM that works on Lumia (Microsoft) phones
 
 So... Microsoft fan here has a Lumia 950XL. I really like, fantasctic camera, fabulous screen, etc.
 
